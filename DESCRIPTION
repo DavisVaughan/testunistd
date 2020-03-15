@@ -18,3 +18,5 @@ LinkingTo:
     Rcpp
 Imports: 
     Rcpp
+URL: https://github.com/DavisVaughan/testunistd
+BugReports: https://github.com/DavisVaughan/testunistd/issues
